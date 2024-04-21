@@ -1,0 +1,14 @@
+/* practice only */
+
+#include <stdio.h>
+
+int main(){
+	
+	int a, b, c;
+
+	printf ("Gege amping");
+
+	return 0;
+
+
+}
